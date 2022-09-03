@@ -110,9 +110,6 @@ author:
   location         : "Cheonan, Republic of Korea"
   email            : "vpvpwkrfur@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "vpvpwkrfur@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/junsu-jang-4766b8165/"
