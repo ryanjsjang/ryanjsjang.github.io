@@ -107,8 +107,8 @@ author:
   name             : "Junsu Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a great MSC student!"
-  location         : "Somewhere"
-  email            : vpvpwkrfur@gmail.com
+  location         : " "
+  email            : "vpvpwkrfur@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
