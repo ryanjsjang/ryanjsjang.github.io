@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Ryan Junsu Jang"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Ver.1.0"
 name                     : "Junsu Jang"
 description              : "This is my first private page"
 url                      : "https://ryanjsjang.github.io"
