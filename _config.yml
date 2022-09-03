@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Junsu Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I'm a great MSC student!"
   location         : "Somewhere"
-  email            :
+  email            : vpvpwkrfur@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
