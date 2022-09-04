@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "CV"
-    url: /https://ryanjsjang.github.io/CV/
+    url: https://ryanjsjang.github.io/CV/
     
   - title: "Research Projects"
-    url: /https://ryanjsjang.github.io/Research Projects/
+    url: https://ryanjsjang.github.io/Research Projects/
     
    - title: "Publications"
-     url: /https://ryanjsjang.github.io/Publications/
+     url: https://ryanjsjang.github.io/Publications/
   
    - title: "Activities"
-     url: /https://ryanjsjang.github.io/Activities/
+     url: https://ryanjsjang.github.io/Activities/
   
    - title: "Teaching"
-     url: /https://ryanjsjang.github.io/Teaching/
+     url: https://ryanjsjang.github.io/Teaching/
