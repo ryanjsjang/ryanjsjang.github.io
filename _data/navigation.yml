@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: https://ryanjsjang.github.io/CV/
+    url: /CV/
   - title: "Research Projects"
     url: https://ryanjsjang.github.io/Research Projects/
   - title: "Publications"
